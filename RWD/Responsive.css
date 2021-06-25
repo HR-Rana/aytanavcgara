@@ -1,0 +1,228 @@
+
+
+
+
+
+@media (max-width: 1200px){
+	.content-float p{
+		width: 100%;
+	}
+	.justo-pro{
+	width: 80%;
+	margin: 50px;
+	}
+	.just-pro p{
+		width: 90%;
+	}
+	.just-pro h3{
+		font-size: 22px;
+	}
+}
+
+
+@media (max-width: 992px){
+	.content-float{
+		width: 100%;
+	
+	}
+	.second-left{
+		width:100%;
+	}
+	.second-right{
+		width: 100%;
+	}
+	.studiam{
+		width: 100%;
+	}
+	.second-flex-box{
+		display: block;
+		padding-top: 25px;
+	}
+	.stander-plan{
+		width: 100%;
+		padding-bottom: 15px;
+	}
+
+	.profile-img .img-cover{
+	width:70%;
+	margin: 5rem auto;
+	}
+	.profile-img img{
+		margin-left:150px ;
+	}
+
+	.third-flex-box .second-flex-box{
+	width: 100%;
+	display: block;
+	padding: 0rem 2rem;
+	justify-content: space-around;
+	margin-top: 2.5rem;
+	}
+	.third-flex-box{
+	display: block;
+	}
+
+	.application-body-flex{
+	display: block;
+	}
+	.rana{
+	width:80%;
+	margin: 20px auto;
+	display: block;
+	transform: scaleY(1.0);
+	}
+	.application-area{
+		
+	}
+	
+}
+
+
+
+@media (max-width: 450px){
+	.before-magazee{
+		width: 70%;
+	}
+	.before-magazee p{
+		width: 80%;
+		text-align: center;
+		margin: 50px auto;
+		line-height: 2.2rem;
+		font-size: 20px;
+	}
+	.magazee{
+		width: 100%;
+		margin:25px 0;
+	}
+	.magazee h2{
+		width: 70%;
+		font-size: 28px;
+		margin-left: -0;
+	}
+	.image3rd-line{
+		width: 100%;
+		height: auto;
+		margin-top: 20px;
+	}
+
+	.onepage-text p{
+	width: 75%;
+	margin:50px auto;
+	font-size: 25px;
+	line-height: 2rem;
+	}
+	.onepage-text span{
+	width: 30%;
+	text-align: center;
+	text-transform: uppercase;
+	margin:50px;
+	text-align: center;
+	}
+	.justo-pro{
+	width: 80%;
+	margin: 00px;
+	margin-top: 35px;
+	}
+	.justo-pro h3{
+		font-size: 25px;
+	}
+	.justo-pro p{
+		width: 75%;
+		margin: 20px auto;
+		font-size: 17px;
+	}
+	.onepage-text{
+		margin-left: -0;
+	}
+	.onepage-text p{
+		width: 80%;
+		margin: 0;
+		margin: 20px auto;
+		text-align: center;
+		font-size: 16px;
+	}
+
+
+	.footer-flex{
+	display: block;
+	font-size: 14px;
+	}
+	.second-flex-box{
+		padding-bottom: 15px;
+	}
+	.rana{
+	width:100%;
+	
+	display: block;
+	transform: scaleY(.9);
+	}
+	.application-footer-box{
+		display: block;
+	}
+	.profile-img{
+		width: 100%;
+		margin: 0;
+	}
+	.profile-img .img-cover{
+		width: 60%;
+		margin-left: 20px;
+	}
+	.profile-img .img-cover p{
+		width: 60%;
+		font-size: 13px;
+		margin-left:0px;
+	}
+	.profile-img img{
+		width: 120px;
+		height: 120px;
+		margin-left:-30px ;
+	}
+	.application-footer-box .left{
+		width: 100%;
+		margin: 0 auto;
+	}
+	.application-footer-box .right{
+		width: 100%;
+		margin: 50px auto;
+	}
+}
+
+@media (max-width: 768px){
+	.justo{
+		width: 95%;
+		margin: 50px auto;
+	}
+	.justo-pro{
+		width: 90%;
+		margin: 0 auto;
+		text-align: center;
+	}
+}
+
+
+ 
+ @media (max-width: 500px){
+ 	.onepage-text span{
+	width: 30%;
+	text-align: center;
+	text-transform: uppercase;
+	margin:200px;
+	text-align: center;
+	}
+	.profile-img p{
+	width: 60%;
+	margin-top:50px;
+	left:50px;
+	top:180px ;
+	font-size: 18px;
+	position: absolute;
+	color: white;
+	text-align: center;
+	}
+	.profile-img p{
+		width: 80%;
+	}
+	.profile-img img{
+		margin-left:100px ;
+	}
+ }
